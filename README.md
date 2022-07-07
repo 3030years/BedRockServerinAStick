@@ -1,3 +1,5 @@
+# How to make pull requests 
+DO NOT ADD YOUR MINERCRAFT FILES!
 # MCinAStick
  Allows you to Put minecraft on a sick!<br>
 
