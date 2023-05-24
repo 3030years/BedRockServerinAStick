@@ -1,5 +1,5 @@
 # How to make pull requests 
-DO NOT ADD YOUR MINERCRAFT FILES!
+DO NOT ADD YOUR MINERCRAFT FILES! Get A FRESH COPY OF MINECRAFT FROM MSI INSTALL! DO NOT HAVE ACCOUNT ON YOUR INSTALL!
 # MCinAStick
  Allows you to Put minecraft on a sick!<br>
 
