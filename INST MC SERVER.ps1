@@ -1,5 +1,8 @@
-// PARAMS -----
+# PARAMS ----- PARAMS
 $mc_ver = "1.20.1.02"
+
+# End of PARAMS ----- End of PARAMS
+
 Write-Host "IPAddress (And other debug stuff. You only need IPAddress): "
 Write-Host $(Get-NetIPAddress -AddressFamily Ipv4 -PrefixOrigin Dhcp | Out-Host)
 
@@ -18,3 +21,4 @@ cd .\BedRockServer
 Start-Process .\bedrock_server.exe -Wait
 cd ../..
 del $tempstr -Recurse -Force
+exit
